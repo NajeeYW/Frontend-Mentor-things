@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(212, 233, 255);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+div{
+    
+    width:250px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-family: roboto,sans-serif;
+    box-shadow: 3px 5px 5px rgb(165, 191, 220);
+}
+h1{
+    font-size:1.3rem;
+}
+p {
+    font-size: 0.9rem;
+    color:grey;
+    
+    padding-bottom: 1rem;
+}
+img{
+    height:230px;
+    width:230px;
+    border-radius: 5%;
+}
+/* .box{
+    position: absolute;
+    top:50%
+    left:50%;   
+} */
